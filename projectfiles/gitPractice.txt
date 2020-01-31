@@ -1,0 +1,8 @@
+Practice using the following commands in your own repository:
+git fetch -p origin		//Ensure you're up to date with what's in the repo
+git pull			//Actually download any new files to your local repo
+git checkout -b <branchName>	//Create a new branch (Do better than me an use a name like [YourName]BranchPractice)
+git commit -m "..."		//These next two lines just add your branch to the online repo
+git push origin <branchName>
+git checkout master			//No -b this time, which means we are switching to an existing branch, not making a new one
+git push				//Update the online repo

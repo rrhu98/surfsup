@@ -1,0 +1,4 @@
+{
+    "timeout": 1800,
+    "executablePath": "./pftprServer.x86_64"
+}
